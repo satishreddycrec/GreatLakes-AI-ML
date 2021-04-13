@@ -8,3 +8,5 @@ Completed projects on
 5) Unsupervised Learning
 6) Featurization, Model Selection & Tuning
 7) Recommendation Systems
+8) Neural Networks
+9) Computer Vision - In Progress
