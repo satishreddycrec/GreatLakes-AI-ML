@@ -12,15 +12,19 @@ Completed below projects with Excellenet grade:
 7) Recommendation Systems
 
 Submitted projects on below:
+
 8) Neural Networks
 
 Doing course on below:
+
 10) Computer Vision - In Progress
 
 Will start courses on below by next month:
+
 11) Natural Language Processing
 
 Doing below add-on courses:
+
 12) Time Series Forecasting
 13) Artificial Intelligence on Cloud
 14) Mastering Big Data Analytics
